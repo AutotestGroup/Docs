@@ -3,6 +3,7 @@ import taskLists from "markdown-it-task-lists";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/Docs/",
   title: "AutoTestNext 自动化框架文档",
   description: "Auto Test Next 自动化框架文档",
   markdown: {
