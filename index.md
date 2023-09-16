@@ -7,7 +7,7 @@ hero:
   text: "下一代自动化测试框架"
   tagline: "基于Pytest+Allure+Requests的自动化框架. 支持HTTP,Grpc,Websocket"
   image:
-    src: logo.png
+    src: /images/logo.png
     alt: logo
   actions:
     - theme: brand
