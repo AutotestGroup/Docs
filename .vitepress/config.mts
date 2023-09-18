@@ -26,8 +26,11 @@ export default defineConfig({
       {
         text: "文档",
         items: [
-          { text: "框架分层介绍", link: "/markdown-examples" },
-          { text: "用户登录设计", link: "/api-examples" },
+          {
+            text: "框架分层介绍",
+            link: "/docs/框架分层介绍.md/框架分层介绍.md",
+          },
+          { text: "断言的设计", link: "/docs/断言的设计.md/断言的设计.md" },
           { text: "丰富的断言", link: "/docs/001/001" },
           { text: "MySQL设计", link: "/docs/001/001" },
           { text: "Kafka使用", link: "/docs/001/001" },
